@@ -1,4 +1,4 @@
-# built application files
+﻿# built application files
 .DS_Store
 *.apk
 *.ap_
@@ -17,11 +17,10 @@ gen/
 build/
 
 # eclipse files
-.classpath
-.project
-.proguard-project.txt
-.project.properties
-
+File文件练习/.classpath
+File文件练习/.project
+File文件练习/.proguard-project.txt
+File文件练习/.project.properties
 # android studio files
 *.iml
 .gradle/
