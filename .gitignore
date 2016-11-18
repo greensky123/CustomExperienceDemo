@@ -1,0 +1,31 @@
+# built application files
+.DS_Store
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+
+bin/
+gen/
+.settings
+build/
+
+# eclipse files
+.classpath
+.project
+.proguard-project.txt
+.project.properties
+
+# android studio files
+*.iml
+.gradle/
+.idea/
+import-summary.txt
+local.properties
+
